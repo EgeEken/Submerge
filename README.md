@@ -32,4 +32,5 @@ https://user-images.githubusercontent.com/96302110/165179431-fbcc2169-23e5-49f7-
 
 https://user-images.githubusercontent.com/96302110/165179599-4f936552-ac27-4e6c-892e-88c51036c2b5.mp4
 
+(Our project presentation, it's in french)
 https://are-dynamic-2022-g4.github.io/Jakarta.github.io/
